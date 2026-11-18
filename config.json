@@ -1,0 +1,120 @@
+{
+ "ahead": 14,
+ "shop": {
+  "note": "",
+  "phone2": "",
+  "email": "",
+  "vk": "https://vk.ru/carmaster_03",
+  "tg": "https://t.me/+79021604484",
+  "name": "CarMaster",
+  "address": "Производственная улица, 27/1, Улан-Удэ",
+  "phone": "+7 (902) 160-44-84",
+  "wa": "https://wa.me/79021604484",
+  "hours": [
+   [
+    "Пн–Сб",
+    "10:00–19:00"
+   ]
+  ]
+ },
+ "levels": [
+  "Любой автомобиль"
+ ],
+ "services": [
+  {
+   "name": "Удаление вмятин без покраски",
+   "group": "Кузов",
+   "desc": "",
+   "request": true,
+   "prices": {
+    "Любой автомобиль": {
+     "price": 500,
+     "minutes": null,
+     "from": true
+    }
+   }
+  },
+  {
+   "name": "Полировка кузова",
+   "group": "Кузов",
+   "desc": "",
+   "request": true,
+   "prices": {
+    "Любой автомобиль": {
+     "price": 4000,
+     "minutes": null,
+     "from": true
+    }
+   }
+  },
+  {
+   "name": "Полировка фар",
+   "group": "Кузов",
+   "desc": "",
+   "request": true,
+   "prices": {
+    "Любой автомобиль": {
+     "price": 500,
+     "minutes": null,
+     "from": true
+    }
+   }
+  },
+  {
+   "name": "Керамическое покрытие",
+   "group": "Кузов",
+   "desc": "демо-цена",
+   "request": true,
+   "prices": {
+    "Любой автомобиль": {
+     "price": 5000,
+     "minutes": null,
+     "from": true
+    }
+   }
+  },
+  {
+   "name": "Химчистка салона",
+   "group": "Салон",
+   "desc": "",
+   "request": true,
+   "prices": {
+    "Любой автомобиль": {
+     "price": 2000,
+     "minutes": null,
+     "from": true
+    }
+   }
+  },
+  {
+   "name": "Детейлинг салона",
+   "group": "Салон",
+   "desc": "",
+   "request": true,
+   "prices": {
+    "Любой автомобиль": {
+     "price": 6000,
+     "minutes": null,
+     "from": true
+    }
+   }
+  }
+ ],
+ "masters": [
+  {
+   "id": "m1",
+   "name": "Приём заявок",
+   "level": "Любой автомобиль",
+   "exp": "",
+   "hours": {
+    "Пн": "10:00-19:00",
+    "Вт": "10:00-19:00",
+    "Ср": "10:00-19:00",
+    "Чт": "10:00-19:00",
+    "Пт": "10:00-19:00",
+    "Сб": "10:00-19:00",
+    "Вс": ""
+   }
+  }
+ ]
+}
